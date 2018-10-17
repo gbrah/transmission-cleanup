@@ -17,6 +17,8 @@ transmission-cleanup-script.sh
   done
 ```
 
+:white_check_mark: Presise your markdown credentials
+
 ## Usage with a CronTab
 > I'm using it on my NAS with [SickRage](https://github.com/SiCKRAGE/SiCKRAGE) torrent auto-download
 
