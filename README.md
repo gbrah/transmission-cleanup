@@ -1,7 +1,7 @@
 # transmission-cleanup-script
 
 ## Description
-> Cleanup your transmission torrent client automatically 
+> Cleanup your transmission torrent client automatically when torrent is done,seeded...
 
 transmission-cleanup-script.sh
 ```bash
