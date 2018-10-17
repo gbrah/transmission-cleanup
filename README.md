@@ -17,7 +17,7 @@ transmission-cleanup-script.sh
   done
 ```
 
-:heavy_check_mark: Presise your transmission credentials on the script if needed
+:heavy_check_mark: Precise your transmission credentials on the script if needed
 
 ## Usage with a CronTab
 > I'm using it on my NAS with [SickRage](https://github.com/SiCKRAGE/SiCKRAGE) torrent auto-download
