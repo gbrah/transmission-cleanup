@@ -1,3 +1,4 @@
+![Transmission_logo](Transmission-Logo.png)
 # transmission-cleanup-script
 
 ## Description
